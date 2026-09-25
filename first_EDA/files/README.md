@@ -153,7 +153,7 @@ I wanted to know:
 
 > **Which skills are associated with the highest median salaries?**
 
-📄 [View SQL File →](C:\Random Files\SQL_Data_Engineering_Projects_27Hours\first_EDA\topPaying_skills.sql)
+📄 [View SQL File →](/first_EDA/files/topPaying_skills.sql)
 
 ---
 
@@ -165,13 +165,13 @@ I wanted to combine:
 
 to create my own `optimal_score`.
 
-📄 [View SQL File →](C:\Random Files\SQL_Data_Engineering_Projects_27Hours\first_EDA\optimalScore_skills_salary)
+📄 [View SQL File →](/first_EDA/files/optimalScore_skills_salary.sql)
 
 ---
 
 # 🔥 EDA #1 — Most In-Demand Skills
 
-📄 **[topDemanind_skills.sql](topDemanind_skills.sql)**
+📄 **[topDemanding_skills.sql](/first_EDA/files/topDemanding_skills.sql)**
 
 ```sql
 SELECT 
@@ -237,7 +237,7 @@ Show top 10
 
 # 💰 EDA #2 — Highest-Paying Skills
 
-📄 **[topPaying_skills.sql](topPaying_skills.sql)**
+📄 **[topPaying_skills.sql](/first_EDA/files/topPaying_skills.sql)**
 
 ```sql
 SELECT 
@@ -316,7 +316,7 @@ So median can give us a better idea of the typical salary when there are extreme
 
 # ⚡ EDA #3 — Optimal Skills
 
-📄 **[optimalScore_skills_salary.sql](optimalScore_skills_salary.sql)**
+📄 **[optimalScore_skills_salary.sql](/first_EDA/files/optimalScore_skills_salary.sql)**
 
 ```sql
 SELECT 
@@ -484,19 +484,19 @@ Here are the three main SQL files:
 
 ### 🔥 Most In-Demand Skills
 
-[**topDemanind_skills.sql**](topDemanind_skills.sql)
+[**topDemanding_skills.sql**](/first_EDA/files/topDemanding_skills.sql)
 
 Finds the 10 most frequently requested skills.
 
 ### 💰 Highest-Paying Skills
 
-[**topPaying_skills.sql**](topPaying_skills.sql)
+[**topPaying_skills.sql**](/first_EDA/files/topPaying_skills.sql)
 
 Finds the 10 skills with the highest median salaries.
 
 ### ⚡ Optimal Skills
 
-[**optimalScore_skills_salary.sql**](optimalScore_skills_salary.sql)
+[**optimalScore_skills_salary.sql**](/first_EDA/files/optimalScore_skills_salary.sql)
 
 Combines skill demand and salary into a custom `optimal_score`.
 
