@@ -1,6 +1,6 @@
 SELECT 
     sd.skills, 
-    COUNT(jpf.*) AS demanding_skills,
+    COUNT(jpf.*) AS demand_order,
     ROUND(MEDIAN(jpf.salary_year_avg), 0) AS skill_frequency
 FROM 
     job_postings_fact AS jpf 
